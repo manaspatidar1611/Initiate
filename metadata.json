@@ -1,0 +1,6 @@
+{
+  "name": "Initiate",
+  "description": "Commitment-based task initiation app with photo/video proof and restriction mode.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
