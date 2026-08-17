@@ -1,6 +1,6 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="C:\Users\ASUS\Downloads\image_ebd36970.png" />
-</div>
+<p align="center">
+  <img src="logo.png" width="150" alt="Initiate Logo">
+</p>
 
 # Run and deploy your AI Studio app
 
