@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="150" alt="Initiate Logo">
+  <img src="image_ebd36970.pngg" width="150" alt="Initiate Logo">
 </p>
 
 # Run and deploy your AI Studio app
